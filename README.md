@@ -1,7 +1,7 @@
 # EX-NO-9-RSA-Algorithm
 
-## NAME:ROBINSON J
-## REG NO:212223040170
+### NAME:ROBINSON J
+### REG NO:212223040170
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
